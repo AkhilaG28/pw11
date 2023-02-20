@@ -10,6 +10,6 @@ git add . => add all changes in all files
 
 git commit -m "Meaingful commit message"
 
-git push origin main
+git push origin main/master
 
 git status => see at which point
